@@ -2,7 +2,7 @@
 See [Homebrew_Applications](https://switchbrew.org/wiki/Homebrew_Applications) for SD layout and applications, etc. See [Switchbrew](https://switchbrew.org/wiki/Homebrew_Menu) for hbmenu docs.
 
 ### Download
-The latest release is available from the [releases](https://github.com/switchbrew/nx-hbmenu/releases/latest) page.
+The latest release is available from the [releases](https://github.com/BananeRapeuse//tf-homebrew-launcher/releases/) page.
 
 ### Building
 Build for the Nintendo Switch with ```make nx``` and for the PC with ```make pc```.
