@@ -29,3 +29,4 @@ Since C11 threads are used, building for the PC may fail if C11 threads are not 
 
 * This uses code based on 3DS [new-hbmenu](https://github.com/fincs/new-hbmenu).
 * `libjpeg-turbo` is used for handling JPEG icons. This library doesn't support lossless JPEG (likewise for official sw which uses `libjpeg-turbo`).
+* Special thanks for [PoloNX](https://github.com/PoloNX) for the help to compile the program with devkitPro. 
